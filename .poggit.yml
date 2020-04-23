@@ -5,6 +5,4 @@ branches:
 projects:
   ComplexRelics:
     path: ""
-    lint:
-      phpstan: false
 ...
